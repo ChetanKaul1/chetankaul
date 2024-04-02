@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chetan kaul</h1>
-<h3 align="center">Passionate web developer aspiring to thrive in a dynamic work environment. Eager to apply a robust founda foundation in coursework and self-driven study, I aim to contribute technical expertise to innovative projects. Committed to continuous learning and growth , I seek opportunities to deliver high-quality solutions while embracing challenges and emerging trends in the ever-evolving field of Web Development.</h3>
+<h3 align="center ">I am a frontend developer with a flair for digital marketing. With expertise in HTML, CSS, JavaScript, and digital strategies like SEO and social media marketing, I craft engaging web experiences and drive online success..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetankaul1&label=Profile%20views&color=0e75b6&style=flat" alt="chetankaul1" /> </p>
 
